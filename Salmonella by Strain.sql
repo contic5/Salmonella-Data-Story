@@ -1,0 +1,4 @@
+SELECT Strain,COUNT(*)
+FROM Salmonella
+GROUP BY Strain
+ORDER BY COUNT(*) DESC;

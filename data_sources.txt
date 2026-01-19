@@ -1,0 +1,2 @@
+1.	https://www.kaggle.com/datasets/imtkaggleteam/pathogen-detection-salmonella-enterica
+2.	https://www.kaggle.com/datasets/sujaykapadnis/world-population-2023-countrywise
